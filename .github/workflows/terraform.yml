@@ -1,4 +1,4 @@
-name: 'Terraform'
+name: 'EC2_terraform'
 
 on:
   workflow_dispatch:
